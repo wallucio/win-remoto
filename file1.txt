@@ -2,4 +2,4 @@ Archivo nuevo.
 
 Modificación.
 
-Comparación.
+Comparación. Con otra modificación
