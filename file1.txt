@@ -1,3 +1,5 @@
 Archivo nuevo.
 
 Modificación.
+
+Comparación.
